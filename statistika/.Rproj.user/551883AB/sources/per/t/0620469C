@@ -1,0 +1,32 @@
+{
+    "id": "0620469C",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1593883700664.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "expression": "FMA_RAD",
+        "caption": "FMA_RAD",
+        "totalObservations": 10,
+        "displayedObservations": 10,
+        "variables": 10,
+        "cacheKey": "8484D55E",
+        "object": "FMA_RAD",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=FMA_RAD&cache_key=8484D55E&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 8238619110841544303,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1593883700664,
+    "read_only": false,
+    "read_only_alternatives": []
+}

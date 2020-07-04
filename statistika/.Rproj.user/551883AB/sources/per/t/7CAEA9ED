@@ -1,0 +1,32 @@
+{
+    "id": "7CAEA9ED",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1593883054479.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "expression": "FMB_RAD",
+        "caption": "FMB_RAD",
+        "totalObservations": 30,
+        "displayedObservations": 30,
+        "variables": 2,
+        "cacheKey": "A17B11D1",
+        "object": "FMB_RAD",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=FMB_RAD&cache_key=A17B11D1&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 6354136462362179630,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1593883054479,
+    "read_only": false,
+    "read_only_alternatives": []
+}
